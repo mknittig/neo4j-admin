@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     neo4j-admin (0.2.1-java)
-      neo4j-community (>= 1.8.2, < 2.0)
+      neo4j-community (>= 1.9.3, < 2.0)
 
 GEM
   remote: https://rubygems.org/
